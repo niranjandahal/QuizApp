@@ -129,7 +129,7 @@ class _HomePageState extends State<HomePage> {
                                     child: Text(
                                       value.categorylist[index],
                                       style: const TextStyle(
-                                        color: Colors.black,
+                                        color: Colors.white,
                                         fontSize: 20,
                                         fontWeight: FontWeight.bold,
                                       ),
