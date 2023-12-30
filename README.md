@@ -2,12 +2,13 @@
 
 A Flutter Project 'Quiz App' firebase as backend
 
+<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-four.jpg">
+
+
+
 ## Video Sample
 [![Youtube Video](https://img.youtube.com/vi/z6DpM9JtNeU/0.jpg)](https://www.youtube.com/watch?v=z6DpM9JtNeU)
 
-
-
-<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-four.jpg">
 
 
 ## Getting Started
