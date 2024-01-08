@@ -2,7 +2,8 @@
 
 A Flutter Project 'Quiz App' firebase as backend
 
-<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-four.jpg">
+<img src="https://github.com/niranjandahal/
+   QuizApp/blob/main/project-four.jp">
 
 
 
