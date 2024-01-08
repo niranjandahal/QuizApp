@@ -7,7 +7,7 @@ A Flutter Project 'Quiz App' firebase as backend
 
 
 ## Video Sample
-[![Youtube Video](https://img.youtube.com/vi/z6DpM9JtNeU/0.jpg)](https://www.youtube.com/watch?v=z6DpM9JtNeU)
+[![Youtube Video](https://img.youtube.com/vi/z6DpM9JtNeU/0.jpg)](https://www.youtube.com/watch?v=)
 
 
 
@@ -15,7 +15,7 @@ A Flutter Project 'Quiz App' firebase as backend
 
 1.You will need to setup a firebase with flutter project 
 
-[![Youtube Video](https://img.youtube.com/vi/CC2nvca0vzQ/0.jpg)](https://www.youtube.com/watch?v=CC2nvca0vzQ)
+[![Youtube Video](https://img.youtube.com/vi/CC2nvca0vzQ/0.jpg)](https://www.youtube.com/watch?v=)
 
 3. enable email and passowrd authencation and google signin on firebase
 
