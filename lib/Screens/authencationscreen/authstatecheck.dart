@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:r14firebasequizapp/Screens/HomePage/HomePage.dart';
-import 'package:r14firebasequizapp/Screens/authencationscreen/LoginScreen.dart';
+import 'package:r14firebasequizapp/screens/HomePage/HomePage.dart';
+import 'package:r14firebasequizapp/screens/authencationscreen/LoginScreen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:r14firebasequizapp/Screens/authencationscreen/emailverification.dart';
-import 'package:r14firebasequizapp/Screens/errorsscreen/errordefault.dart';
+import 'package:r14firebasequizapp/screens/authencationscreen/emailverification.dart';
+import 'package:r14firebasequizapp/screens/errorsscreen/errordefault.dart';
 
 class AuthStateChecker extends StatelessWidget {
   const AuthStateChecker({Key? key}) : super(key: key);

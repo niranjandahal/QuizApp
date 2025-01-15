@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:r14firebasequizapp/Screens/QuizScreen/buildwidgets.dart';
+import 'package:r14firebasequizapp/screens/QuizScreen/buildwidgets.dart';
 import 'package:r14firebasequizapp/widgetcustomcomponent/customwidgetcomponent.dart';
 import '../../provider/quizscreenprovier.dart';
 import 'package:provider/provider.dart';
