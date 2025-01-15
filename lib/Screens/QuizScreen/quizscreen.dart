@@ -96,7 +96,7 @@ class _SampleQuizScreenState extends State<SampleQuizScreen> {
                   width: double.infinity,
                   child: ElevatedButton(
                       style: ElevatedButton.styleFrom(
-                        primary: Colors.deepPurple,
+                        backgroundColor: Colors.deepPurple,
                         shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10.0),
                         ),
