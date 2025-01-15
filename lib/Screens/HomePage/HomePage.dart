@@ -86,6 +86,8 @@ class _HomePageState extends State<HomePage> {
                       crossAxisSpacing: 16,
                     ),
                     itemBuilder: (context, index) {
+                      print("categotyakjshfjhasjkfhjhsdakjfhjhsdfh");
+                      print(value.categoryimages[index]); // Image URL
                       return GestureDetector(
                         onTap: () async {
                           value
