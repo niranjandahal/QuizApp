@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:r14firebasequizapp/screens/QuizScreen/buildwidgets.dart';
+import 'package:r14firebasequizapp/screens/quizscreen/buildwidgets.dart';
 import 'package:r14firebasequizapp/widgetcustomcomponent/customwidgetcomponent.dart';
-import '../../provider/quizscreenprovier.dart';
+import 'package:r14firebasequizapp/provider/quizscreenprovier.dart';
 import 'package:provider/provider.dart';
 
 class SampleQuizScreen extends StatefulWidget {

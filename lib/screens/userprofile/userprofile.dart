@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:r14firebasequizapp/screens/HomePage/HomePage.dart';
-import 'package:r14firebasequizapp/provider/UserProvider.dart';
+import 'package:r14firebasequizapp/screens/homepage/homepage.dart';
+import 'package:r14firebasequizapp/provider/userprovider.dart';
 
 class UserProfile extends StatefulWidget {
   const UserProfile({super.key});

@@ -1,8 +1,3 @@
-// import 'package:provider/provider.dart';
-// import 'package:flutter/material.dart';
-// import 'package:r14firebasequizapp/Screens/HomePage/HomePage.dart';
-// import 'package:r14firebasequizapp/Screens/authencationscreen/LoginScreen.dart';
-// import 'package:r14firebasequizapp/provider/emailandgoogleprovider.dart';
 import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:r14firebasequizapp/provider/emailandgoogleprovider.dart';

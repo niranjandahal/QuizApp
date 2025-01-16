@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../provider/quizscreenprovier.dart';
+import 'package:r14firebasequizapp/provider/quizscreenprovier.dart';
 import 'package:provider/provider.dart';
 
 class QuizResult extends StatefulWidget {

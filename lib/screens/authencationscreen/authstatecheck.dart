@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:r14firebasequizapp/screens/HomePage/HomePage.dart';
-import 'package:r14firebasequizapp/screens/authencationscreen/LoginScreen.dart';
+import 'package:r14firebasequizapp/screens/homepage/homepage.dart';
+import 'package:r14firebasequizapp/screens/authencationscreen/loginscreen.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:r14firebasequizapp/screens/authencationscreen/emailverification.dart';
 import 'package:r14firebasequizapp/screens/errorsscreen/errordefault.dart';

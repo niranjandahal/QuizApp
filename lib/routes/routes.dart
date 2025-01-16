@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:r14firebasequizapp/screens/HomePage/HomePage.dart';
-import 'package:r14firebasequizapp/Screens/QuizResultScreen/quizresultscreen.dart';
-import 'package:r14firebasequizapp/screens/QuizScreen/quizscreen.dart';
+import 'package:r14firebasequizapp/screens/homepage/homepage.dart';
+import 'package:r14firebasequizapp/screens/quizresultscreen/quizresultscreen.dart';
+import 'package:r14firebasequizapp/screens/quizscreen/quizscreen.dart';
 import 'package:r14firebasequizapp/screens/authencationscreen/loginscreen.dart';
-import 'package:r14firebasequizapp/Screens/authencationscreen/SignupScreen.dart';
+import 'package:r14firebasequizapp/screens/authencationscreen/signupscreen.dart';
 import 'package:r14firebasequizapp/screens/authencationscreen/authstatecheck.dart';
 import 'package:r14firebasequizapp/screens/authencationscreen/emailverification.dart';
 import 'package:r14firebasequizapp/screens/authencationscreen/otpverification.dart';
