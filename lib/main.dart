@@ -85,7 +85,7 @@
 //   }
 // }
 
-import 'package:r14firebasequizapp/provider/UserProvider.dart';
+import 'package:r14firebasequizapp/provider/userprovider.dart';
 import 'package:r14firebasequizapp/provider/emailandgoogleprovider.dart';
 import 'package:r14firebasequizapp/provider/loginprovider.dart';
 import 'package:r14firebasequizapp/provider/phoneverifyprovider.dart';
