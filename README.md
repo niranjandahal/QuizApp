@@ -1,10 +1,8 @@
 ## Quiz App : https://quiz-app-9o6d.vercel.app/
 
-Quiz App using flutter and firebase.
+Quiz App using flutter and firebase as backend.
 
 ## Getting Started
-
-A Flutter Project 'QuizApp' with firebase as a backend
 
 <img src="https://github.com/niranjandahal/QuizApp/blob/main/project-four.jpg">
 
@@ -18,13 +16,13 @@ A Flutter Project 'QuizApp' with firebase as a backend
 
 ## Getting Started
 
-1.You will need to setup a firebase with flutter project 
+1. You will need to setup a firebase with flutter project 
 
 [![Youtube Video](https://img.youtube.com/vi/CC2nvca0vzQ/0.jpg)](https://www.youtube.com/watch?v=CC2nvca0vzQ)
 
-3. enable email and passowrd authencation and google signin on firebase
+2. enable email and passowrd authencation and google signin on firebase
 
-4.create firebase database and create collection name 'users'
+3. create firebase database and create collection name 'users'
 
 
 
@@ -79,7 +77,6 @@ A Flutter Project 'QuizApp' with firebase as a backend
 
 
 ## Screenshots
-<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s5.jpg" width="300">
 <img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s1.jpg" width="300">
 <img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s2.jpg" width="300">
 <img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s3.jpg" width="300">
