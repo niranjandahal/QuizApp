@@ -22,11 +22,18 @@ Quiz App using flutter and firebase as backend.
 
 2. enable email and passowrd authencation and google signin on firebase
 
-3. create firebase database and create collection name 'users'
+3. create firebase database and create collection name a. 'users' b. 'quiz' c. 'quiz category'
 
+4. place hardcoded value in quizcategory collection
 
+5. go to temp folder and partially uncomment code section wise which will add question to your firebase database. also you can add your qn from this file.
+ 
 
+## firebase database images
 
+<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s5.jpg">
+
+<img src="https://github.com/niranjandahal/QuizApp/blob/main/project-4-s6.jpg">
 
 
 ## features
