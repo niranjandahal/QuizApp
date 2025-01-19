@@ -165,6 +165,14 @@ class ForcedMobileView extends StatelessWidget {
               color: Colors.black,
             ),
           ),
+          const SizedBox(height: 7),
+          const Text(
+            'app maynot work properly as it is shown via web forcefully',
+            style: TextStyle(
+              fontSize: 30,
+              color: Colors.black,
+            ),
+          ),
           const SizedBox(height: 100),
           Center(
             child: Container(
