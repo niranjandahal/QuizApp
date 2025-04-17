@@ -1,5 +1,9 @@
 ## Quiz App : https://quiz-app-9o6d.vercel.app/
 
+# test email : "testone@gmail.com"
+
+# test password : "Testone!1"
+
 Quiz App using flutter and firebase as backend.
 
 ## Getting Started
